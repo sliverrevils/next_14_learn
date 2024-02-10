@@ -18,12 +18,15 @@
         "name": "next"
       }
     ],
+    
     // "paths": {
     //   "@/*": ["./*"]
     // },
+
+    //EDIT TO
     "baseUrl": ".", 
     "paths": {
-  "@/app/*": ["app/*"]
+    "@/app/*": ["app/*"] 
 }
   },
   "include": [
